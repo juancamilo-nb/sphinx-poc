@@ -24,6 +24,8 @@ go to pages in the side menu
 
 and there you have the options
 
+to activate the page you just need to select a branch in your repo and the dir where the page is going to live
+
 
 ![](https://github.com/juancamilo-nb/sphinx-poc/blob/master/images/03.png)
 
