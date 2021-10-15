@@ -11,6 +11,7 @@ Welcome to github page with sphinx's documentation!
    :caption: Contents:
 
    modules
+   app
 
 
 Indices and tables

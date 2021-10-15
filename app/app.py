@@ -5,4 +5,3 @@ def function_tales(arg):
     :return: the string value
     """
     return arg
-

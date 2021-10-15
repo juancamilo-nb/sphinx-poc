@@ -12,14 +12,24 @@ pip install requirements.txt
 and initiate the doc generator script
 
 
-(I created an extra directory for sphinx because in /docs is where the github page is going to live too)
+(I created an extra directory for sphinx because in /docs is where the github page is going to live)
 
 
 ```
 sphinx-quickstart docs/sphinx
 ```
 
+Run this command inside the sphinx directory to generate the source files that generate the documentation
 
+```
+sphinx-apidoc -o source ../.. --ext-autodoc
+```
+
+finally run the next command to generate the html files that we are going to see on github pages
+
+```
+make html
+```
 
 # Github pages
 
