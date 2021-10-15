@@ -2,6 +2,22 @@
 
 Python Documentation Generator
 
+to start just install sphinx (it is in the requirements)
+
+
+```
+pip install requirements.txt
+```
+
+and initiate the doc generator script
+
+
+(I created an extra directory for sphinx because in /docs is where the github page is going to live too)
+
+
+```
+sphinx-quickstart docs/sphinx
+```
 
 
 
