@@ -9,6 +9,7 @@ To add a google page for a project you just need to go to the settings
 ![](https://github.com/juancamilo-nb/sphinx-poc/blob/master/images/01.png)
 
 go to pages in the side menu
+
 ![](https://github.com/juancamilo-nb/sphinx-poc/blob/master/images/02.png)
 
 and there you have the options
